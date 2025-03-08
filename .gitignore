@@ -9,7 +9,3 @@ __pycache__/
 
 # Ignore pytest cache
 .pytest_cache/
-
-# Ignore IDE/editor files
-.vscode/
-.idea/
