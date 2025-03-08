@@ -1,5 +1,16 @@
-".venv/"
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore compiled Python files
 __pycache__/
 *.pyc
-.vscode/
+*.pyo
+
+# Ignore pytest cache
 .pytest_cache/
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
