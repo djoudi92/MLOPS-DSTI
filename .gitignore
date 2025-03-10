@@ -15,6 +15,7 @@ __pycache__/
 .vscode/
 
 # Ignore les fichiers generes par DVC
-/data/
+data/*
+!data/*.dvc
 /.dvc/
 /.dvc/cache/
