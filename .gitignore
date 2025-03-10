@@ -1,0 +1,4 @@
+# Ignore les fichiers generes par DVC
+/data/
+/.dvc/
+/.dvc/cache/
