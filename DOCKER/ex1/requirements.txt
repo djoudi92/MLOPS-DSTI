@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+scikit-learn
+jupyter
+
+# when you run the container, check the teminal output to get the token to access the jupyter notebook.
+
+# run the container
+docker run -p 8888:8888 iris-data
