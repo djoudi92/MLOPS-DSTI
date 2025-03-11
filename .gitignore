@@ -19,3 +19,5 @@ data/*
 !data/*.dvc
 /.dvc/
 /.dvc/cache/
+
+data_versioning/.git
