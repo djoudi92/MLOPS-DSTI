@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/5851233a72a14d9db51e36c5d5cce78a/artifacts
+end_time: 1742810641636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5851233a72a14d9db51e36c5d5cce78a
+run_name: redolent-crab-918
+run_uuid: 5851233a72a14d9db51e36c5d5cce78a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742810632396
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

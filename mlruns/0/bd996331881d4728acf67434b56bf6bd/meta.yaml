@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/bd996331881d4728acf67434b56bf6bd/artifacts
+end_time: 1742812100452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd996331881d4728acf67434b56bf6bd
+run_name: invincible-swan-380
+run_uuid: bd996331881d4728acf67434b56bf6bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742812084587
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

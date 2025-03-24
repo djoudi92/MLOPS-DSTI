@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/474138447956628078/a881325773154301b6746b7761427664/artifacts
+end_time: 1742813588465
+entry_point_name: ''
+experiment_id: '474138447956628078'
+lifecycle_stage: active
+run_id: a881325773154301b6746b7761427664
+run_name: ENet (α=0.1, l1=0.1)
+run_uuid: a881325773154301b6746b7761427664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742813579183
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

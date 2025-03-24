@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/2262ab3302e542708a150bd687896151/artifacts
+end_time: 1742812625186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2262ab3302e542708a150bd687896151
+run_name: RF (n=200, depth=5)
+run_uuid: 2262ab3302e542708a150bd687896151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742812612127
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

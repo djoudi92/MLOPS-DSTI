@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/155042480321080414
+creation_time: 1742813303895
+experiment_id: '155042480321080414'
+last_update_time: 1742813303895
+lifecycle_stage: active
+name: RandomForest-Wine-Tracking

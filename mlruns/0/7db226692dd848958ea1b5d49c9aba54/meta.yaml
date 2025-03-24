@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/7db226692dd848958ea1b5d49c9aba54/artifacts
+end_time: 1742812002307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7db226692dd848958ea1b5d49c9aba54
+run_name: luminous-shrike-650
+run_uuid: 7db226692dd848958ea1b5d49c9aba54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742811991439
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

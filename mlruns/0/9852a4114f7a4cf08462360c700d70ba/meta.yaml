@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/9852a4114f7a4cf08462360c700d70ba/artifacts
+end_time: 1742810669907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9852a4114f7a4cf08462360c700d70ba
+run_name: nebulous-donkey-950
+run_uuid: 9852a4114f7a4cf08462360c700d70ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742810660909
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

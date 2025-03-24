@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/2dc289e3421e434da2067a476491f1c9/artifacts
+end_time: 1742812033793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dc289e3421e434da2067a476491f1c9
+run_name: treasured-mouse-301
+run_uuid: 2dc289e3421e434da2067a476491f1c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742812023474
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

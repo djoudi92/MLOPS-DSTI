@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/9232cb5194084bfb8c3c85da2dd044e7/artifacts
+end_time: 1742810651187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9232cb5194084bfb8c3c85da2dd044e7
+run_name: nimble-penguin-807
+run_uuid: 9232cb5194084bfb8c3c85da2dd044e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742810641654
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

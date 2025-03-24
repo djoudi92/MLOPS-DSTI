@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/9b1ccb639d064da88e4e4e8c43d54c52/artifacts
+end_time: 1742810632377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b1ccb639d064da88e4e4e8c43d54c52
+run_name: thundering-cow-527
+run_uuid: 9b1ccb639d064da88e4e4e8c43d54c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742810623751
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/bf78de561f114eb2bf733b6b35596797/artifacts
+end_time: 1742812056655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf78de561f114eb2bf733b6b35596797
+run_name: welcoming-goat-654
+run_uuid: bf78de561f114eb2bf733b6b35596797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742812044323
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

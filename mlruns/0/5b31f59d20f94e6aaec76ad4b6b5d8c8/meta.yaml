@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/5b31f59d20f94e6aaec76ad4b6b5d8c8/artifacts
+end_time: 1742812067999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b31f59d20f94e6aaec76ad4b6b5d8c8
+run_name: bouncy-roo-686
+run_uuid: 5b31f59d20f94e6aaec76ad4b6b5d8c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742812056706
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

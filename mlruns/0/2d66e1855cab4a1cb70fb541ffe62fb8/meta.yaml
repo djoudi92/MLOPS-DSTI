@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/2d66e1855cab4a1cb70fb541ffe62fb8/artifacts
+end_time: 1742810025942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d66e1855cab4a1cb70fb541ffe62fb8
+run_name: bustling-toad-993
+run_uuid: 2d66e1855cab4a1cb70fb541ffe62fb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742809988505
+status: 3
+tags: []
+user_id: AbdessalemDjoudi

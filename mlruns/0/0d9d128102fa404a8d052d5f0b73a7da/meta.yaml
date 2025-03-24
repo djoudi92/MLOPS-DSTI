@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AbdessalemDjoudi/Desktop/MLOPS-DSTI/mlruns/0/0d9d128102fa404a8d052d5f0b73a7da/artifacts
+end_time: 1742812044297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d9d128102fa404a8d052d5f0b73a7da
+run_name: youthful-pug-650
+run_uuid: 0d9d128102fa404a8d052d5f0b73a7da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742812033815
+status: 3
+tags: []
+user_id: AbdessalemDjoudi
