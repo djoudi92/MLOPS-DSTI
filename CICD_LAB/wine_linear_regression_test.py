@@ -70,7 +70,7 @@ def train(alpha=0.3, l1_ratio=0.5):
     (rmse, mae, r2) = eval_metrics(test_y, predicted_qualities)
     
     # Write scores to a file
-    with open("CICD_LAB/metrics.txt", 'w') as outfile:
+    with open("metrics.txt", 'w') as outfile:
         outfile.write("  RMSE: %s" % rmse)
         outfile.write("  MAE: %s" % mae)
         outfile.write("  R2: %s" % r2)

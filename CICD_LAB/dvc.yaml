@@ -1,21 +1,21 @@
 stages:
   preprocess:
-    cmd: python CICD_LAB/src/preprocess.py
+    cmd: python src/preprocess.py
     deps:
-      - CICD_LAB/data/winequality-red.csv
-      - CICD_LAB/src/preprocess.py
+      - data/winequality-red.csv
+      - src/preprocess.py
     outs:
-      - CICD_LAB/data/processed.csv
+      - data/processed.csv
 
   train:
-    cmd: python CICD_LAB/src/train.py
+    cmd: python src/train.py
     deps:
-      - CICD_LAB/data/processed.csv
-      - CICD_LAB/src/train.py
+      - data/processed.csv
+      - src/train.py
     params:
       - learning_rate
       - epochs
     outs:
-      - CICD_LAB/models/model.pkl
+      - models/model.pkl
     metrics:
-      - CICD_LAB/metrics.json
+      - metrics.json

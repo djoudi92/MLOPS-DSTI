@@ -7,8 +7,7 @@ from sklearn.linear_model import ElasticNet
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 # Charger les données prétraitées
-#df = pd.read_csv("data/processed.csv")
-df = pd.read_csv("CICD_LAB/data/processed.csv")
+df = pd.read_csv("data/processed.csv")
 
 # Séparer les features et la target
 X = df.drop(columns=["quality"])  # La colonne "quality" est la cible
@@ -36,11 +35,11 @@ metrics = {
 }
 
 # Sauvegarder les métriques
-with open("CICD_LAB/metrics.json", "w") as f:
+with open("metrics.json", "w") as f:
     json.dump(metrics, f)
 
 # Sauvegarder le modèle
-with open("CICD_LAB/models/model.pkl", "wb") as f:
+with open("models/model.pkl", "wb") as f:
     pickle.dump(model, f)
 
 print("Training completed. Model and metrics saved.")
