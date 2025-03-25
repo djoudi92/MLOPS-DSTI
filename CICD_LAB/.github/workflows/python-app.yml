@@ -1,0 +1,23 @@
+name: model-training
+on: [push]
+
+jobs:
+  run:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: iterative/setup-cml@v1
+      - name: Train model
+        env:
+          REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+        run: |
+          pip install -r CICD_LAB/requirements.txt
+          python CICD_LAB/wine_linear_regression_test.py
+          cat CICD_LAB/metrics.txt
+      - name: Post metrics report 
+        env:
+          REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cat CICD_LAB/metrics.txt >> report.md
+          cml-send-comment report.md
